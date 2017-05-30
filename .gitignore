@@ -1,0 +1,9 @@
+.ignore
+*.log
+*.retry
+*.swp
+license.txt
+readme.html
+wp-includes/
+wp-admin/
+*.php
